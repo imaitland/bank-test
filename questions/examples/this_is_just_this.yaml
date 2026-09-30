@@ -2,8 +2,8 @@ name: this_is_just_this
 text: hello world this is interesting
 universe: all_respondents
 number:
-  min: 2
-  max: 10
-  unit: meters
+ min: 2
+ max: 3
+ unit: meters
 intent: sdjls ladsjfkd kljasdf alsdkj
 instruction: this is the instruction... what's up!
