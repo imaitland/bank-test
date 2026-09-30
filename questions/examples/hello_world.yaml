@@ -1,6 +1,4 @@
 name: hello_world
 text: how are you
 intent: this is just a question to see how things are going
-number:
-  min: 0
-  max: 2
+responses: satisfied5
