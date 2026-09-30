@@ -1,4 +1,5 @@
-name: hello_world
+title: hello_world
+name: this_is_hello
 text: how are you
-intent: this is just a question to see how things are going
-responses: satisfied5
+intent: how are they doing today?
+responses: yesno01
