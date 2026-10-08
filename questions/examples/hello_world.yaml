@@ -1,0 +1,8 @@
+title: hello_world
+name: this_is_hello
+text: how are you
+intent: how are they doing today?
+number: 
+  min: 1
+  max: 2
+  unit: meters
